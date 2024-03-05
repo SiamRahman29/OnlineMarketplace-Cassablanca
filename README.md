@@ -9,4 +9,4 @@ The project was built using Python and the Django framework. I used a virtual en
 folder inside and you should be able to run it using python manage.py runserver. 
 
 <br><br>
-If you have any questions about this code, or have any troubles with it, please let me know. Ciao!
+If you have any questions about this code, or have any troubles with it, please let me know. If you are wondering why it is called Cassablanca, I don't have a satisfactory answer to that: I just named it that for no reason. Ciao!
