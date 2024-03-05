@@ -8,5 +8,5 @@ you can add, remove, or edit items for sale. You can see messages what messages 
 The project was built using Python and the Django framework. I used a virtual environment to build it. If you download the whole code, just cd into the OnlineMarketplace 
 folder inside and you should be able to run it using python manage.py runserver. 
 
-<br>
+<br><br>
 If you have any questions about this code, or have any troubles with it, please let me know. Ciao!
